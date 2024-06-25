@@ -25,24 +25,23 @@ Vite is highly optimized for speed and performance, making it an excellent choic
 
 ## Installation and Setup
 1. **Clone the repository:**
-   git clone https://github.com/apurvakoshti/Weather-Widget.git
-   cd  mini-react-project
+   - git clone https://github.com/apurvakoshti/Weather-Widget.git
+   - cd  mini-react-project
 2. **Install Dependencies**
-   npm install
+   - npm install
 3. **Run the app**
-   npm run dev
+   - npm run dev
 
 ## Usage
-Enter the name of the city or location you want to check the weather for.
-Click the "Search" button to fetch and display the weather details.
+- Enter the name of the city or location you want to check the weather for.
+- Click the "Search" button to fetch and display the weather details.
 
 ## Screenshot
 
-[!WeatherApp](weather.png)
-
+<img src="weather.png" alt="weather-app">
 
 ## Acknowlegements
-OpenWeatherMap for providing the weather data.
-Material UI for the UI components.
-Vite for the development and build tool.
+- OpenWeatherMap for providing the weather data.
+- Material UI for the UI components.
+- Vite for the development and build tool.
    
